@@ -129,7 +129,6 @@
     height: 48px;
     border-radius: 8px;
 }
-
 .button{
     border: 1px solid #2563EB;
     background: white;
@@ -152,4 +151,17 @@
     border: 1px solid #0D1B2A;
     color: #0D1B2A;
     font-weight: 600;
+}
+.button:hover,
+.btn-2:hover{
+    background-color: #1E3A8A;
+}
+
+.btn-2:hover{
+    color: white;
+}
+
+.btn-4:hover{
+    background-color: #0D1B2A;
+    color: white;
 }
