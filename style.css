@@ -39,7 +39,7 @@
             rgba(0,0,0,.65) 35%,
             rgba(0,0,0,.05) 100%
         ),
-        url(/assets/banner.jpg);
+        url(/banner.jpg);
 
 }
 
@@ -381,3 +381,21 @@
 }
 
 
+.btn{
+    width: 160px;
+    height: 48px;
+    border: 1px solid #2563EB;
+    border-radius: 8px;
+    background-color: #2563EB;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .3s ease;
+    margin-bottom: 20px;
+}
+
+.btn:hover{
+    background-color: #1E3A8A;
+    border-color: #1E3A8A;
+}
