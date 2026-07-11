@@ -201,6 +201,12 @@
 .price-prem{
     color: white;
 }
+.pricing-list li::marker{
+    color: #2563EB;
+}
+.pricing-list-prem li::marker{
+    color: #60A5FA;
+}
 
 /* Person */
 
