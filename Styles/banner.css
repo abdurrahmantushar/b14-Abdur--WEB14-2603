@@ -10,7 +10,8 @@
             rgba(0,0,0,.65) 35%,
             rgba(0,0,0,.05) 100%
         ),
-        url(assets/banner.jpg);
+        url(../assets/banner.jpg);
+
 }
 
 .overlay,
